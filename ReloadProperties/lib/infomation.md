@@ -1,1 +1,0 @@
-infomation.md
